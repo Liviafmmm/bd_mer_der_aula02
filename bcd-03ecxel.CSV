@@ -1,0 +1,12 @@
+id_motorista;nome ;cpf;cnh;categoria_cnh;telefone ;status
+1;João Pedro Silva;123.456.789-01;1234567890;B;(19) 98821-4532;Ativo
+2;Maria Eduarda Santos;234.567.890-12;12345678901;B;(19) 99734-2187;Ativo
+3;Carlos Henrique Oliveira;345.678.901-23;23456789012;E;(19) 99182-7645;Inativo
+4;Ana Beatriz Souza;456.789.012-34;34567890123;D;(19) 98953-6712;Férias
+5;Lucas Gabriel Pereira;567.890.123-45;89012345678;C;(19) 99641-3058;Ativo
+6;Juliana Martins Costa;678.901.234-56;45678901234;E;(19) 99276-1843;Ativo
+7;Rafael Augusto Lima;789.012.345-67;56789012345;B;(19) 99812-5396;Ativo
+8;Beatriz Fernanda Alves;890.123.456-78;78901234567;D;(19) 98745-6201;Inativo
+9;Larissa Vitória Rocha;901.234.567-89;67890123456;D;(19) 99438-7526;Férias
+10;Gabriel Rodrigues Melo;012.345.678-90;90123456789;C;(19) 98621-9473;Inativo
+;;;;;;

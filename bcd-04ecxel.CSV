@@ -1,0 +1,12 @@
+id_rota;nome_rota;origem;destino ;distancia_km;duração_prevista;tipo;status
+1;Rota Campinas–São Paulo;Campinas;São Paulo;99,0;1h 30min;Urbana;Ativa
+2;Rota Campinas–Jundiaí;Campinas;Jundiaí;42,0;50min;Intermunicipal;Ativa
+3;Rota Campinas–Sorocaba;Campinas;Sorocaba;85,0;1h 20min;Intermunicipal;Ativa
+4;Rota São Paulo–Santos;São Paulo;Santos;72,0;1h 30min;Intermunicipal;Ativa
+5;Rota Campinas–Limeira;Campinas;Limeira;62,0;55min;Intermunicipal;Inativa
+6;Rota Campinas–Americana;Campinas;Americana;40,0;45min;Urbana;Ativa
+7;Rota Jundiaí–São Paulo;Jundiaí;São Paulo;58,0;1h 10min;Intermunicipal;Ativa
+8;Rota Campinas–Indaiatuba;Campinas;Indaiatuba;35,0;40min;Urbana;Ativa
+9;Rota Sorocaba–Itu;Sorocaba;Itu;40,0;45min;Intermunicipal;Inativa
+10;Rota Campinas–Valinhos;Campinas;Valhinhos;15,0;25min;Urbana;Ativa
+;;;;;;;
