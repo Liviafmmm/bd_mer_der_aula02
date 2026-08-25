@@ -28,3 +28,9 @@
 | Viagem | `hora_saida` | `time` | — | Horário de saída da viagem |
 | Viagem | `hora_chegada` | `time` | — | Horário de chegada da viagem |
 | Viagem | `status` | `varchar` | `20` | Situação atual da viagem |
+
+#Código em CSV
+
+[Motorista](https://github.com/Liviafmmm/bd_mer_der_aula02/blob/main/bcd-03ecxel.CSV)
+[Rota](https://github.com/Liviafmmm/bd_mer_der_aula02/blob/main/bcd-04ecxel.CSV)
+[Viagem](https://github.com/Liviafmmm/bd_mer_der_aula02/blob/main/bcd-022ecxel.CSV)
